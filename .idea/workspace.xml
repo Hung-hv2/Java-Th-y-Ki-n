@@ -5,19 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4622e99a-1a27-49ee-943c-7ca794f519f6" name="Changes" comment="aaa">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baitap2/KhoiA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baitap2/KhoiB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baitap2/KhoiC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baitap2/QuanlyThisinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baitap8/Bienlai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baitap8/Khachhang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baitap8/Quanlyhogiadinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baitap8/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Buoi6/main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi6/BaitapString/baitap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi6/baitapOOp/Nhanvien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi6/baitapOOp/NhanvienFulltime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi6/baitapOOp/NhanvienParttime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi6/baitapOOp/QuanlynhanvienFullTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi6/baitapOOp/QuanlynhanvienPartTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi6/baitapOOp/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi7/Baitap1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi7/Baitap1/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi7/Baitap1/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi7/Baitap1/PhoneUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi7/Baitap2/INews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi7/Baitap2/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi7/Baitap2/QuanlyNews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi7/Baitap2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi7/Baitap5/Quanlyname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi7/Baitap5/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi7/Baitap5/nameIStudentcontains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baitapbuoi7/Baitap5/nameStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Buoi7/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Buoi7/Viduabstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Buoi9/Bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Buoi9/Bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Buoi9/Util.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baitap2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baitap2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baitap2/ThiSinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Baitap2/ThiSinh.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -55,13 +68,13 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.main1">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baitap2.Main" />
+  <component name="RunManager" selected="Application.Bai1">
+    <configuration name="Bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Buoi9.Bai1" />
       <module name="Buoi5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Baitap2.*" />
+          <option name="PATTERN" value="Buoi9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Buoi6.main1" />
+    <configuration name="Baitapbuoi7.Baitap1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baitapbuoi7.Baitap1.Main" />
       <module name="Buoi5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Buoi6.*" />
+          <option name="PATTERN" value="Baitapbuoi7.Baitap1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,23 +95,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="Baitapbuoi7.Baitap1.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baitapbuoi7.Baitap1.main" />
       <module name="Buoi5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baitapbuoi7.Baitap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+    <configuration name="Baitapbuoi7.Baitap2.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baitapbuoi7.Baitap2.main" />
       <module name="Buoi5" />
-      <option name="filePath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baitapbuoi7.Baitap2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baitapbuoi7.Baitap5.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baitapbuoi7.Baitap5.main" />
+      <module name="Buoi5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baitapbuoi7.Baitap5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main1" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Bai1" />
+        <item itemvalue="Application.Baitapbuoi7.Baitap1.Main" />
+        <item itemvalue="Application.Baitapbuoi7.Baitap5.main" />
+        <item itemvalue="Application.Baitapbuoi7.Baitap2.main" />
+        <item itemvalue="Application.Baitapbuoi7.Baitap1.main" />
       </list>
     </recent_temporary>
   </component>
@@ -113,6 +155,18 @@
       <workItem from="1667098563503" duration="4427000" />
       <workItem from="1667103023542" duration="14307000" />
       <workItem from="1667140076034" duration="193000" />
+      <workItem from="1667140291435" duration="5655000" />
+      <workItem from="1667315717777" duration="6380000" />
+      <workItem from="1667389240170" duration="3321000" />
+      <workItem from="1667402580398" duration="4367000" />
+      <workItem from="1667563078489" duration="278000" />
+      <workItem from="1667574725960" duration="3474000" />
+      <workItem from="1668080599454" duration="9212000" />
+      <workItem from="1668167817067" duration="1426000" />
+      <workItem from="1668169339956" duration="3853000" />
+      <workItem from="1668181674988" duration="5381000" />
+      <workItem from="1668221893300" duration="5837000" />
+      <workItem from="1668236545804" duration="10682000" />
     </task>
     <task id="LOCAL-00001" summary="aaa">
       <created>1667098683288</created>
@@ -121,7 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667098683288</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aaa">
+      <created>1667140352181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667140352181</updated>
+    </task>
+    <task id="LOCAL-00003" summary="aaa">
+      <created>1667140362594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667140362594</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
